@@ -297,12 +297,6 @@ main{
     color: #fefefe;
 }
 
-.header h2{
-    font-weight: 400;
-    font-family: "Pixelify Sans", sans-serif;
-    font-size: 90px;
-}
-
 .video_gameplay{
     position: relative;
     width: 1280px;
@@ -688,4 +682,8 @@ footer h2{
 .gmail i{
     margin: 0 1rem;
     font-size: 20px;
+}
+
+h2 {
+    font-size: 5vw;
 }
