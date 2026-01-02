@@ -230,6 +230,7 @@ main{
     top: 0;
     left: 0;
     background-color: #222d42;
+    overflow-x: hidden;
 }
 
 .container{
