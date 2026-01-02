@@ -228,6 +228,7 @@ nav{
 main{
     top: 0;
     left: 0;
+    overflow-x: hidden;
 }
 
 .hero_section{
