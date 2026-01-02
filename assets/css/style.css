@@ -687,7 +687,7 @@ h2 {
     font-size: 5vw;
 }
 
-@media screen and (max-width : 480){
+@media screen and (max-width : 480px){
     h2 {
         font-size: 10vw
     }
