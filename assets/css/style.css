@@ -680,9 +680,18 @@ footer h2{
 }
 
 h2 {
-    font-size: 10vw;
+    font-size: 5vw;
 }
 
-hero_section_item_title{
+.hero_section_item_title{
     font-size: 5vw;
+}
+
+@media screen and (max-width : 480){
+    h2 {
+        font-size: 10vw
+    }
+    .hero_section_item_title{
+        font-size: 10vw;
+    }
 }
