@@ -283,6 +283,7 @@ main{
         justify-items: center;
         margin: 0 2rem;
         text-align: center;
+        overflow-x: hidden;
     }
 
     .how_to_play img{
@@ -553,4 +554,8 @@ footer h2{
 .gmail i{
     margin: 0 1rem;
     font-size: 20px;
+}
+
+h2{
+    font-size: 5vw; 
 }
