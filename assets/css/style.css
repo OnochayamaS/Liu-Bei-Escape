@@ -680,7 +680,7 @@ footer h2{
 }
 
 h2 {
-    font-size: 2vw;
+    font-size: 5vw;
 }
 
 .hero_section_item_title{
@@ -692,6 +692,6 @@ h2 {
         font-size: 10vw
     }
     .hero_section_item_title{
-        font-size: 10vw;
+        font-size: 5vw;
     }
 }
