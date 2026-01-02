@@ -254,6 +254,7 @@ main{
     padding: 2rem 0 2rem 0;
     display: flex;
     justify-content: center;
+    overflow-x: hidden;
 }
 
 .how_to_play img{
