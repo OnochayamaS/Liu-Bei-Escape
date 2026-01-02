@@ -399,11 +399,6 @@ main{
     color: #fefefe;
 }
 
-.how_to_play div h2{
-    font-family: "Pixelify Sans", sans-serif;
-    font-size: 90px;
-}
-
 @media screen and (max-width : 1218px){
     .how_to_play{
         display: block;
@@ -685,5 +680,6 @@ footer h2{
 }
 
 h2 {
+    font-family: "Pixelify Sans", sans-serif;
     font-size: 5vw;
 }
